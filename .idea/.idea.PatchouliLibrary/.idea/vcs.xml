@@ -2,5 +2,10 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Gensokyo-Scale-Scramble" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../THJAM16" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../TheTouhouDefense" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../TouhouTowerDefence" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../UdoMyon" vcs="Git" />
   </component>
 </project>

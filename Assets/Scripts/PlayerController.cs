@@ -1,11 +1,9 @@
 using System;
 using UnityEngine;
 
-public class PlayerController : MonoBehaviour
+public class PlayerController : Unit
 {
-    public float speed;
     public float jumpPower; 
-    [SerializeField] private Rigidbody2D rb;
     private float horizontal;
     public bool isOnGround;
     public Transform groundCheckPoint;
